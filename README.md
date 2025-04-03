@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad
-- 👀 I’m interested in devloping android and ios apolications
+- 👀 I’m interested in devloping android and ios aplications
 - 🌱 I’m currently learning Kotlin and KMP
 - 💞️ I’m looking to collaborate on TV and Mobile apps
 
